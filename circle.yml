@@ -1,1 +1,2 @@
-# testapp1
+general:
+  build_dir: api
